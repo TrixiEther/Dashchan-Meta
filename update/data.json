@@ -5,8 +5,8 @@
 	"client": [
 		{
 			"title": "Release",
-			"name": "3.1.4-experimental-1.6.2.1",
-			"code": 1054,
+			"name": "3.1.4-experimental-1.6.2",
+			"code": 1053,
 			"minVersion": 1,
 			"maxVersion": 1,
 			"minSdk": 16,
