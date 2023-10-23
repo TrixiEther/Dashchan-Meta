@@ -8,8 +8,8 @@
 			"packages": [
 				{
 					"title": "Release",
-					"version_name": "3.1.4-experimental-1.6.2.1",
-					"version_code": 1054,
+					"version_name": "3.1.4-experimental-1.6.2",
+					"version_code": 1053,
 					"min_api_version": 1,
 					"max_api_version": 1,
 					"min_sdk": 16,
