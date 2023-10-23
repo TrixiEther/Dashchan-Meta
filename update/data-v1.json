@@ -8,15 +8,15 @@
 			"packages": [
 				{
 					"title": "Release",
-					"version_name": "3.1.4-experimental-1.6.2",
-					"version_code": 1053,
+					"version_name": "3.1.4-experimental-1.6.2.1",
+					"version_code": 1054,
 					"min_api_version": 1,
 					"max_api_version": 1,
 					"min_sdk": 16,
 					"length": 1985748,
-					"source": "//github.com/TrixiEther/DashchanFork/releases/download/3.1.4-experimental-1.6.2/DashchanFork-release.apk",
+					"source": "//github.com/TrixiEther/DashchanFork/releases/download/3.1.4-experimental-1.6.2.1/DashchanFork-release.apk",
 					"fingerprint": "77:C7:C9:20:0A:97:59:6D:83:21:42:6E:8A:43:3A:CC:FD:56:F5:EB:82:63:9F:ED:3E:46:8A:05:BC:2E:81:BF",
-					"sha256sum": "00:69:5E:D4:C3:F2:8F:2C:96:5A:C2:C5:AE:35:39:EE:26:46:AF:35:F3:54:E8:6F:46:CA:AC:CA:91:A2:2B:1D"
+					"sha256sum": "27:48:D1:8A:8F:A8:3D:A8:BA:D5:93:7C:0E:78:FD:33:30:C0:03:99:B0:37:C3:57:B9:42:BA:07:49:9C:C6:74"
 				}
 			]
 		},
