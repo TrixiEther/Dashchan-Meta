@@ -333,14 +333,14 @@
 			"packages": [
 				{
 					"title": "Release",
-					"version_name": "1.7",
+					"version_name": "1.8",
 					"version_code": 1,
 					"api_version": 1,
 					"min_sdk": 16,
-					"length": 36225,
+					"length": 36487,
 					"source": "package/DashchanDollchan.apk",
 					"fingerprint": "77:C7:C9:20:0A:97:59:6D:83:21:42:6E:8A:43:3A:CC:FD:56:F5:EB:82:63:9F:ED:3E:46:8A:05:BC:2E:81:BF",
-					"sha256sum": "22:B1:90:54:47:53:7D:6E:C5:A0:D1:B1:6E:52:4A:6D:55:0F:72:91:F7:64:B2:7E:3A:66:2B:0A:9E:18:29:A4"
+					"sha256sum": "2D:AC:CA:D0:C4:03:23:9D:AB:09:90:13:74:D7:6B:31:05:3F:3A:69:D2:C1:19:34:78:6F:D8:4D:04:17:31:01"
 				}
 			]
 		},
@@ -837,14 +837,14 @@
 			"packages": [
 				{
 					"title": "Release",
-					"version_name": "1.0",
+					"version_name": "1.1",
 					"version_code": 1,
 					"api_version": 1,
 					"min_sdk": 16,
-					"length": 32134,
+					"length": 32581,
 					"source": "package/DashchanSojakparty.apk",
 					"fingerprint": "77:C7:C9:20:0A:97:59:6D:83:21:42:6E:8A:43:3A:CC:FD:56:F5:EB:82:63:9F:ED:3E:46:8A:05:BC:2E:81:BF",
-					"sha256sum": "88:97:57:2C:B6:60:D7:7C:3B:6A:7C:46:6B:00:BE:53:52:08:B2:25:AD:B9:AB:B2:91:2D:87:61:F8:21:09:A1"
+					"sha256sum": "E8:81:99:6C:F2:51:6C:E4:7A:1E:D7:DE:2F:AD:11:C2:41:B8:D8:2A:2A:62:8A:0E:15:EF:5B:D4:10:C4:47:A5"
 				}
 			]
 		},
