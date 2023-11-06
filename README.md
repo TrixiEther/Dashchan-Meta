@@ -64,6 +64,7 @@ Video player libraries: [DashchanWebm.apk](https://github.com/TrixiEther/Dashcha
 | Chan Name       | Host                 | Extension Package Link                                                                                                                  |
 | :-------------: | :------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: |
 | archiverbt      | rbt.asia             | [DashchanArchiveRbt.apk](https://github.com/TrixiEther/Dashchan-Meta/raw/master/update/package/DashchanArchiveRbt.apk)                   |
+| arch.b4k.co     | arch.b4k.co          | [DashchanArchB4K.apk](https://github.com/TrixiEther/Dashchan-Meta/raw/master/update/package/DashchanArchB4K.apk)                         |
 | arhivach        | arhivach.net         | [DashchanArhivach.apk](https://github.com/TrixiEther/Dashchan-Meta/raw/master/update/package/DashchanArhivach.apk)                       |
 | desustorage     | desuarchive.org      | [DashchanDesustorage.apk](https://github.com/TrixiEther/Dashchan-Meta/raw/master/update/package/DashchanDesustorage.apk)                 |
 | fourplebs       | 4plebs.org           | [DashchanFourplebs.apk](https://github.com/TrixiEther/Dashchan-Meta/raw/master/update/package/DashchanFourplebs.apk)                     |
