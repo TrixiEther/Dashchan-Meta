@@ -63,6 +63,18 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
+	"archb4k": [
+		{
+			"title": "Release",
+			"name": "1.0",
+			"code": 1,
+			"version": 1,
+			"minSdk": 16,
+			"length": 25395,
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanArchB4K.apk",
+			"fingerprint": "77:C7:C9:20:0A:97:59:6D:83:21:42:6E:8A:43:3A:CC:FD:56:F5:EB:82:63:9F:ED:3E:46:8A:05:BC:2E:81:BF"
+		}
+	],
 	"archivedmoe": [
 		{
 			"title": "Release",

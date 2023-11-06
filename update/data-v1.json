@@ -93,6 +93,24 @@
 			]
 		},
 		{
+			"name": "archb4k",
+			"type": "chan",
+			"title": "arch.b4k.co",
+			"packages": [
+				{
+					"title": "Release",
+					"version_name": "1.0",
+					"version_code": 1,
+					"api_version": 1,
+					"min_sdk": 16,
+					"length": 25395,
+					"source": "package/DashchanArchB4K.apk",
+					"fingerprint": "77:C7:C9:20:0A:97:59:6D:83:21:42:6E:8A:43:3A:CC:FD:56:F5:EB:82:63:9F:ED:3E:46:8A:05:BC:2E:81:BF",
+					"sha256sum": "20:78:69:59:17:0B:BC:66:CA:CE:B5:A4:09:B5:92:E4:B0:3F:CB:8B:68:40:9A:CE:3E:F2:71:7B:35:13:A1:34"
+				}
+			]
+		},
+		{
 			"name": "archivedmoe",
 			"type": "chan",
 			"title": "archived.moe",
