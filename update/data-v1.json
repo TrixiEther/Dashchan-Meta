@@ -855,14 +855,14 @@
 			"packages": [
 				{
 					"title": "Release",
-					"version_name": "1.1",
+					"version_name": "1.2",
 					"version_code": 1,
 					"api_version": 1,
 					"min_sdk": 16,
-					"length": 32581,
+					"length": 32652,
 					"source": "package/DashchanSojakparty.apk",
 					"fingerprint": "77:C7:C9:20:0A:97:59:6D:83:21:42:6E:8A:43:3A:CC:FD:56:F5:EB:82:63:9F:ED:3E:46:8A:05:BC:2E:81:BF",
-					"sha256sum": "E8:81:99:6C:F2:51:6C:E4:7A:1E:D7:DE:2F:AD:11:C2:41:B8:D8:2A:2A:62:8A:0E:15:EF:5B:D4:10:C4:47:A5"
+					"sha256sum": "31:09:39:8A:8B:9A:70:0C:8E:1E:A6:9C:E7:25:D6:E5:9B:67:1A:AA:7E:F2:FE:B2:11:D0:64:B6:C8:C5:F5:14"
 				}
 			]
 		},
