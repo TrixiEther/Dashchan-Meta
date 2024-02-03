@@ -459,14 +459,14 @@
 			"packages": [
 				{
 					"title": "Release",
-					"version_name": "1.27-experimental-1.1",
+					"version_name": "1.27-experimental-1.2",
 					"version_code": 1,
 					"api_version": 1,
 					"min_sdk": 16,
-					"length": 44850,
+					"length": 45044,
 					"source": "package/DashchanFourchan.apk",
 					"fingerprint": "77:C7:C9:20:0A:97:59:6D:83:21:42:6E:8A:43:3A:CC:FD:56:F5:EB:82:63:9F:ED:3E:46:8A:05:BC:2E:81:BF",
-					"sha256sum": "8D:76:8D:06:D5:BD:1A:72:2B:32:CC:A7:FF:8D:D2:8F:1F:A3:E4:E5:11:53:77:A8:99:3A:0B:72:99:71:1F:50"
+					"sha256sum": "CE:AF:99:EE:41:92:DE:F1:A1:5F:79:CF:F0:8A:E3:FB:8C:22:F7:72:10:9E:7C:E9:A5:E1:3C:21:07:7C:0C:2C"
 				}
 			]
 		},
