@@ -534,11 +534,11 @@
 	"refugedobrochan": [
 		{
 			"title": "Release",
-			"name": "1.5",
+			"name": "1.6",
 			"code": 1,
 			"version": 1,
 			"minSdk": 16,
-			"length": 44183,
+			"length": 44444,
 			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanRefugeDobrochan.apk",
 			"fingerprint": "77:C7:C9:20:0A:97:59:6D:83:21:42:6E:8A:43:3A:CC:FD:56:F5:EB:82:63:9F:ED:3E:46:8A:05:BC:2E:81:BF"
 		}
