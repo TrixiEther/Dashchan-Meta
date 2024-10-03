@@ -50,8 +50,6 @@ class Extension:
         self.packages = []
 
 
-certificate_split = '\n' if sys.platform.startswith('win') else '\r\n'
-
 os.chdir(os.path.dirname(sys.argv[0]))
 os.chdir('update')
 with open('source.json') as file:
@@ -132,8 +130,9 @@ def dumpapk(path):
                     cert = cert_entry.read()
                 output = subprocess.run(['openssl', 'pkcs7', '-inform', 'DER', '-print_certs'],
                                         input=cert, capture_output=True).stdout.decode('utf-8')
+                output = output.replace("\r", "")
                 b64 = None
-                for line in output.split(certificate_split):
+                for line in output.split("\n"):
                     if line == '-----BEGIN CERTIFICATE-----':
                         b64 = ''
                     elif line == '-----END CERTIFICATE-----':
