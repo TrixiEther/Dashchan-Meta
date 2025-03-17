@@ -71,5 +71,9 @@ Video player libraries: [DashchanWebm.apk](https://github.com/TrixiEther/Dashcha
 | local           | ( local archive )    | [DashchanLocal.apk](https://github.com/TrixiEther/Dashchan-Meta/raw/master/update/package/DashchanLocal.apk)                             |
 | randomarchive   | randomarchive.com    | [DashchanRandomArchive.apk](https://github.com/TrixiEther/Dashchan-Meta/raw/master/update/package/DashchanRandomArchive.apk)             |
 | yakujimoe       | ii.yakuji.moe        | [DashchanYakujiMoe.apk](https://github.com/TrixiEther/Dashchan-Meta/raw/master/update/package/DashchanYakujiMoe.apk)                     |
-| archived.moe    | archived.moe         | [DashchanArchivedMoe.apk](https://github.com/TrixiEther/Dashchan-Meta/raw/master/update/package/DashchanArchivedMoe.apk)         
-| warosu          | warosu.org           | [DashchanWarosu.apk](https://github.com/TrixiEther/Dashchan-Meta/raw/master/update/package/DashchanWarosu.apk)  
+| archived.moe    | archived.moe         | [DashchanArchivedMoe.apk](https://github.com/TrixiEther/Dashchan-Meta/raw/master/update/package/DashchanArchivedMoe.apk)                 |
+| warosu          | warosu.org           | [DashchanWarosu.apk](https://github.com/TrixiEther/Dashchan-Meta/raw/master/update/package/DashchanWarosu.apk)                           |
+| palanq.win      | archive.palanq.win   | [DashchanPalanqWin.apk](https://github.com/TrixiEther/Dashchan-Meta/raw/master/update/package//DashchanPalanqWin.apk)                    |
+| archiveofsins   | archiveofsins.com    | [DashchanArchiveOfSins.apk](https://github.com/TrixiEther/Dashchan-Meta/raw/master/update/package/DashchanArchiveOfSins.apk)             |
+| archive4plebs   | archive.4plebs.org   | [DashchanArchiveForPlebs.apk](https://github.com/TrixiEther/Dashchan-Meta/raw/master/update/package/DashchanArchiveForPlebs.apk)         |
+

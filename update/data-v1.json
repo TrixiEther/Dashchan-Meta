@@ -129,6 +129,42 @@
 			]
 		},
 		{
+			"name": "archiveforplebs",
+			"type": "chan",
+			"title": "archive.4plebs.org",
+			"packages": [
+				{
+					"title": "Release",
+					"version_name": "1.0",
+					"version_code": 1,
+					"api_version": 1,
+					"min_sdk": 16,
+					"length": 253766,
+					"source": "package/DashchanArchiveForPlebs.apk",
+					"fingerprint": "77:C7:C9:20:0A:97:59:6D:83:21:42:6E:8A:43:3A:CC:FD:56:F5:EB:82:63:9F:ED:3E:46:8A:05:BC:2E:81:BF",
+					"sha256sum": "20:74:83:C2:BF:05:A0:83:83:A3:F1:F5:69:22:86:61:7D:BE:39:27:92:34:D5:47:CC:45:13:CF:9E:C9:5C:47"
+				}
+			]
+		},
+		{
+			"name": "archiveofsins",
+			"type": "chan",
+			"title": "archiveofsins.com",
+			"packages": [
+				{
+					"title": "Release",
+					"version_name": "1.0",
+					"version_code": 1,
+					"api_version": 1,
+					"min_sdk": 16,
+					"length": 25548,
+					"source": "package/DashchanArchiveOfSins.apk",
+					"fingerprint": "77:C7:C9:20:0A:97:59:6D:83:21:42:6E:8A:43:3A:CC:FD:56:F5:EB:82:63:9F:ED:3E:46:8A:05:BC:2E:81:BF",
+					"sha256sum": "65:64:5B:BC:3F:3E:97:D7:FE:FB:B4:57:7C:48:9B:98:09:27:DB:60:6A:58:EF:D0:EC:73:37:3F:20:54:F3:5E"
+				}
+			]
+		},
+		{
 			"name": "archiverbt",
 			"type": "chan",
 			"title": "rbt.asia",
@@ -719,6 +755,24 @@
 					"source": "package/DashchanOwlchan.apk",
 					"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3",
 					"sha256sum": "54:1A:70:C0:B2:07:33:B7:53:40:1D:DC:97:77:7A:72:30:EC:8B:AD:8D:04:35:A7:23:45:D4:E1:8B:03:C2:69"
+				}
+			]
+		},
+		{
+			"name": "palanqwin",
+			"type": "chan",
+			"title": "archive.palanq.win",
+			"packages": [
+				{
+					"title": "Release",
+					"version_name": "1.0",
+					"version_code": 1,
+					"api_version": 1,
+					"min_sdk": 16,
+					"length": 25415,
+					"source": "package/DashchanPalanqWin.apk",
+					"fingerprint": "77:C7:C9:20:0A:97:59:6D:83:21:42:6E:8A:43:3A:CC:FD:56:F5:EB:82:63:9F:ED:3E:46:8A:05:BC:2E:81:BF",
+					"sha256sum": "12:2F:67:36:CE:B6:37:7C:E8:1D:91:97:12:14:43:15:36:72:57:BB:13:05:6E:E9:66:04:F3:36:09:4E:DA:55"
 				}
 			]
 		},
