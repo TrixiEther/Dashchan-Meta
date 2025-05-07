@@ -58,6 +58,7 @@ Video player libraries: [DashchanWebm.apk](https://github.com/TrixiEther/Dashcha
 | sojak.party     | sojak.party          | [DashchanSojakparty.apk](https://github.com/TrixiEther/Dashchan-Meta/raw/master/update/package/DashchanSojakparty.apk)                   |
 | rf.dobrochan.net| rf.dobrochan.net     | [DashchanRefugeDobrochan.apk](https://github.com/TrixiEther/Dashchan-Meta/raw/master/update/package/DashchanRefugeDobrochan.apk)         |
 | Dollchan        | dollchan.net         | [DashchanDollchan.apk](https://github.com/TrixiEther/Dashchan-Meta/blob/master/update/package/DashchanDollchan.apk)                      |
+| ejchan          | ejchan.cc            | [DashchanEjchan.apk](https://github.com/TrixiEther/Dashchan-Meta/blob/master/update/package/DashchanEjchan.apk)                          |
 
 ### Archives
 
