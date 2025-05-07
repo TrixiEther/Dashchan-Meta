@@ -417,6 +417,24 @@
 			]
 		},
 		{
+			"name": "ejchan",
+			"type": "chan",
+			"title": "ejchan.cc",
+			"packages": [
+				{
+					"title": "Release",
+					"version_name": "1.2",
+					"version_code": 1,
+					"api_version": 1,
+					"min_sdk": 16,
+					"length": 139448,
+					"source": "package/DashchanEjchan.apk",
+					"fingerprint": "C2:8B:7B:B1:3F:65:02:5A:D2:4F:09:EF:04:AB:71:D4:EA:1F:68:10:46:AD:F9:09:3F:0D:D9:4E:DC:ED:11:30",
+					"sha256sum": "EC:CF:05:15:0D:B2:E0:D8:46:A5:FD:E9:C1:91:39:B5:A8:45:57:9E:D5:54:57:1D:46:66:DC:81:FF:55:ED:B4"
+				}
+			]
+		},
+		{
 			"name": "endchan",
 			"type": "chan",
 			"title": "endchan.net",
