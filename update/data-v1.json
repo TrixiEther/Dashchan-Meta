@@ -401,18 +401,18 @@
 		{
 			"name": "dvach",
 			"type": "chan",
-			"title": "2ch.hk",
+			"title": "2ch.su",
 			"packages": [
 				{
 					"title": "Release",
-					"version_name": "1.43-experimental-1.4",
+					"version_name": "1.43-experimental-1.5",
 					"version_code": 1,
 					"api_version": 1,
 					"min_sdk": 16,
-					"length": 188115,
+					"length": 188114,
 					"source": "package/DashchanDvach.apk",
 					"fingerprint": "77:C7:C9:20:0A:97:59:6D:83:21:42:6E:8A:43:3A:CC:FD:56:F5:EB:82:63:9F:ED:3E:46:8A:05:BC:2E:81:BF",
-					"sha256sum": "85:CA:0C:65:FB:2C:1B:20:9E:C7:6B:A1:17:C0:5E:44:85:E7:E8:57:B6:EA:FF:8A:68:62:D6:06:38:70:DD:AB"
+					"sha256sum": "BB:B2:7F:B2:57:37:0D:5E:F0:F2:8A:9E:7A:EE:A7:CD:B7:EE:CD:07:9B:14:FC:C0:C3:1A:8E:60:DD:03:58:16"
 				}
 			]
 		},
