@@ -8,15 +8,15 @@
 			"packages": [
 				{
 					"title": "Release",
-					"version_name": "3.1.4-experimental-1.6.4",
-					"version_code": 1056,
+					"version_name": "3.1.4-experimental-1.6.5",
+					"version_code": 1057,
 					"min_api_version": 1,
 					"max_api_version": 1,
 					"min_sdk": 16,
 					"length": 1989844,
-					"source": "//github.com/TrixiEther/DashchanFork/releases/download/3.1.4-experimental-1.6.4/DashchanFork-release.apk",
+					"source": "//github.com/TrixiEther/DashchanFork/releases/download/3.1.4-experimental-1.6.5/DashchanFork-release.apk",
 					"fingerprint": "77:C7:C9:20:0A:97:59:6D:83:21:42:6E:8A:43:3A:CC:FD:56:F5:EB:82:63:9F:ED:3E:46:8A:05:BC:2E:81:BF",
-					"sha256sum": "B2:06:1B:BC:2F:BA:BE:CE:CD:67:B3:00:D8:D5:0D:9C:F7:A2:0C:E5:17:B8:1E:EB:19:23:6D:37:80:0F:96:1A"
+					"sha256sum": "94:8E:ED:30:66:7B:32:4D:E4:5E:3E:AE:92:35:B7:C0:98:00:43:59:FE:0D:B7:EC:63:AC:7D:4A:49:D3:C2:C4"
 				}
 			]
 		},
@@ -405,14 +405,14 @@
 			"packages": [
 				{
 					"title": "Release",
-					"version_name": "1.43-experimental-1.5",
+					"version_name": "1.43-experimental-1.6",
 					"version_code": 1,
 					"api_version": 1,
 					"min_sdk": 16,
-					"length": 188114,
+					"length": 188201,
 					"source": "package/DashchanDvach.apk",
 					"fingerprint": "77:C7:C9:20:0A:97:59:6D:83:21:42:6E:8A:43:3A:CC:FD:56:F5:EB:82:63:9F:ED:3E:46:8A:05:BC:2E:81:BF",
-					"sha256sum": "BB:B2:7F:B2:57:37:0D:5E:F0:F2:8A:9E:7A:EE:A7:CD:B7:EE:CD:07:9B:14:FC:C0:C3:1A:8E:60:DD:03:58:16"
+					"sha256sum": "BD:53:EC:DF:5A:AE:91:D3:66:AA:24:29:19:06:18:EF:49:6D:A7:86:05:AC:F5:77:99:76:04:12:69:B2:D3:7E"
 				}
 			]
 		},
