@@ -391,10 +391,10 @@
 					"version_code": 1,
 					"api_version": 1,
 					"min_sdk": 16,
-					"length": 36636,
+					"length": 37862,
 					"source": "package/DashchanDollchan.apk",
 					"fingerprint": "77:C7:C9:20:0A:97:59:6D:83:21:42:6E:8A:43:3A:CC:FD:56:F5:EB:82:63:9F:ED:3E:46:8A:05:BC:2E:81:BF",
-					"sha256sum": "04:47:95:D9:B0:BE:D3:35:ED:47:EF:E8:47:BC:0D:77:52:8A:17:83:15:52:26:FD:20:31:36:30:68:30:6A:7D"
+					"sha256sum": "2E:42:FC:8A:1F:82:8C:1F:49:3E:14:18:EF:D8:0C:2C:48:45:D7:3F:92:34:AA:51:16:71:DF:5D:E9:01:D3:61"
 				}
 			]
 		},
