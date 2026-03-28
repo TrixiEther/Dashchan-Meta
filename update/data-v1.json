@@ -387,14 +387,14 @@
 			"packages": [
 				{
 					"title": "Release",
-					"version_name": "1.9",
+					"version_name": "1.11",
 					"version_code": 1,
 					"api_version": 1,
 					"min_sdk": 16,
-					"length": 37862,
+					"length": 38518,
 					"source": "package/DashchanDollchan.apk",
 					"fingerprint": "77:C7:C9:20:0A:97:59:6D:83:21:42:6E:8A:43:3A:CC:FD:56:F5:EB:82:63:9F:ED:3E:46:8A:05:BC:2E:81:BF",
-					"sha256sum": "2E:42:FC:8A:1F:82:8C:1F:49:3E:14:18:EF:D8:0C:2C:48:45:D7:3F:92:34:AA:51:16:71:DF:5D:E9:01:D3:61"
+					"sha256sum": "CC:25:49:98:2D:0F:BA:96:12:E4:67:79:5F:91:F7:D8:D1:EB:D6:7B:22:C2:A6:75:92:2E:15:DD:93:DE:C9:6D"
 				}
 			]
 		},
